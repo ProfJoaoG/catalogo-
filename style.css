@@ -1,11 +1,14 @@
 body{
 color:white;
 background:black;
-
+margin: 0px;
 
 header{
 
-    border: solid 2px  white;
+    border-bottom: solid 2px  rgb(6, 48, 235);
+    padding:20px;
+    font-size: 32px;
+    color:rgba(9, 189, 212, 0.582)
 }
 
 }
